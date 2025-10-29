@@ -2,8 +2,8 @@ package inter.functests.menus;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import inter.functests.BillingFunctionalTests;
-import inter.sdk.InterSdk;
-import inter.sdk.commons.exceptions.SdkException;
+import inter.InterSdk;
+import inter.commons.exceptions.SdkException;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

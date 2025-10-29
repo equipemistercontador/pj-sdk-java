@@ -4,9 +4,9 @@ import inter.functests.menus.BankingMenu;
 import inter.functests.menus.BillingMenu;
 import inter.functests.menus.PixMenu;
 import inter.functests.utils.FuncTestUtils;
-import inter.sdk.InterSdk;
-import inter.sdk.commons.exceptions.InvalidEnvironmentException;
-import inter.sdk.commons.exceptions.SdkException;
+import inter.InterSdk;
+import inter.commons.exceptions.InvalidEnvironmentException;
+import inter.commons.exceptions.SdkException;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Arrays;
